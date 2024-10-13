@@ -2632,12 +2632,12 @@ local CamShake = require(game.ReplicatedStorage.Util.CameraShaker)
 CamShake:Stop()
 
 HttpService = game:GetService("HttpService")
-local i = "denis hub"
+local i = "adonis hub"
 local j = "-BloxFruit.json"
 local l = game.Players.LocalPlayer.Name .. j
 if Adel then
     HttpService = game:GetService("HttpService")
-    local i = "Adenis hub"
+    local i = "Adonis hub"
     local j = "-BloxFruit.json"
     local l = game.Players.LocalPlayer.Name .. j
 end
@@ -2795,7 +2795,7 @@ end)
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({
     Name = "Adonis Hub",
-    HidePremium = false,
+    HidePremium = true,
     IntroText = "Adonis Hub script beta",
     SaveConfig = true,
     ConfigFolder = "Adonis Hub"
@@ -2818,85 +2818,85 @@ OrionLib:MakeNotification({
 local W = Window:MakeTab({
     Name = "👋 Welcome",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local M = Window:MakeTab({
     Name = "🏠 General",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local ST = Window:MakeTab({
     Name = "🛠️ Setting",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local IQ = Window:MakeTab({
     Name = "⚔️ Item & Quest",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local S = Window:MakeTab({
     Name = "📊 Stats",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local E = Window:MakeTab({
     Name = "🔎 ESP",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local RA = Window:MakeTab({
     Name = "🎆 Raid",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local LC = Window:MakeTab({
     Name = "🙆‍♂️ Local Players",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local Wld = Window:MakeTab({
     Name = "🌍 World Teleport",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local SV = Window:MakeTab({
     Name = "📈 Status Sever",
-    Icon = "rbxassetid://16161818145",
-    PremiumOnly = false
+    Icon = "rbxassetid:///5004759498",
+    PremiumOnly = true
 })
 
 local D = Window:MakeTab({
     Name = "🍍 Devil Fruit",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local R = Window:MakeTab({
     Name = "☣️ Race V4",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local SH = Window:MakeTab({
     Name = "🛒 Shop",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 local C = Window:MakeTab({
     Name = "🔰 Misc",
     Icon = "rbxassetid://5004759498",
-    PremiumOnly = false
+    PremiumOnly = true
 })
 
 -----Label--------------------
