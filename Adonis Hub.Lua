@@ -2804,7 +2804,7 @@ local Window = OrionLib:MakeWindow({
 OrionLib:MakeNotification({
     Name = "Adonis Hub",
     Content = "Thank you for using",
-    Image = "https://cdn.discordapp.com/attachments/1292833851873296495/1293932777627979957/standard_3.gif?ex=670c780e&is=670b268e&hm=296e843fd33e7b8a4288705488fd511dd7542091b33d6398c6ec3d01a9958474&",
+    Image = "5004759498",
     Time = 7
 })
 
@@ -2817,55 +2817,55 @@ OrionLib:MakeNotification({
 
 local W = Window:MakeTab({
     Name = "👋 Welcome",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local M = Window:MakeTab({
     Name = "🏠 General",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local ST = Window:MakeTab({
     Name = "🛠️ Setting",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local IQ = Window:MakeTab({
     Name = "⚔️ Item & Quest",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local S = Window:MakeTab({
     Name = "📊 Stats",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local E = Window:MakeTab({
     Name = "🔎 ESP",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local RA = Window:MakeTab({
     Name = "🎆 Raid",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local LC = Window:MakeTab({
     Name = "🙆‍♂️ Local Players",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local Wld = Window:MakeTab({
     Name = "🌍 World Teleport",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
@@ -2877,25 +2877,25 @@ local SV = Window:MakeTab({
 
 local D = Window:MakeTab({
     Name = "🍍 Devil Fruit",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local R = Window:MakeTab({
     Name = "☣️ Race V4",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local SH = Window:MakeTab({
     Name = "🛒 Shop",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
 local C = Window:MakeTab({
     Name = "🔰 Misc",
-    Icon = "rbxassetid://16161818145",
+    Icon = "rbxassetid://5004759498",
     PremiumOnly = false
 })
 
@@ -2904,13 +2904,13 @@ local Section = W:AddSection({
     Name = "Credit"
 })
 
-W:AddLabel("Script made by Hunn208.")
+W:AddLabel("Script made by Sukaichann.")
 
 local Section = W:AddSection({
     Name = "Update"
 })
 
-W:AddLabel("[+] Denis hub Beta")
+W:AddLabel("[+] Adonis hub Beta")
 
 local Section = W:AddSection({
     Name = "Status"
